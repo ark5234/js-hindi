@@ -15,7 +15,7 @@ console.log(booleanIsloggedIn);
 console.log(typeof booleanIsloggedIn)
 console.log(typeof isLoggedIn)
 */
-
+/*
 let someNumber = undefined
 
 let stringNumber = String(someNumber)
@@ -23,3 +23,14 @@ let stringNumber = String(someNumber)
 console.log(stringNumber)
 console.log(typeof someNumber)
 console.log(typeof stringNumber)
+*/
+
+//*****************Operations*************
+
+let value = 3
+let negValue = -value
+console.log(negValue)
+
+
+console.log("1"+2);
+console.log(2+"3");
