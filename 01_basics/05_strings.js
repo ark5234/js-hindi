@@ -25,3 +25,4 @@ const url = "http://vikrant.com/vikrant%20kawadkar"
 console.log(url.replace('%20' , '-'))
 
 console.log(url.includes('vikrant'));
+
